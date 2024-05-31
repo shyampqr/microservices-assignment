@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Books-ms/Books-ms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Books-ms/Books-ms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka-server/Eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka-server/Eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Order-ms/Order-ms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Order-ms/Order-ms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/User-ms/User-ms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/User-ms/User-ms/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

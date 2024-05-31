@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/All-ms.iml" filepath="$PROJECT_DIR$/.idea/All-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Books-ms/Books-ms/Books-ms.iml" filepath="$PROJECT_DIR$/Books-ms/Books-ms/Books-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka-server/Eureka-server/Eureka-server.iml" filepath="$PROJECT_DIR$/Eureka-server/Eureka-server/Eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Order-ms/Order-ms/Order-ms.iml" filepath="$PROJECT_DIR$/Order-ms/Order-ms/Order-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User-ms/User-ms/User-ms.iml" filepath="$PROJECT_DIR$/User-ms/User-ms/User-ms.iml" />
+    </modules>
+  </component>
+</project>
